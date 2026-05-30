@@ -4,3 +4,4 @@ dist/
 *.local
 npm-debug.log*
 vite-server*.log
+简要说明.md
